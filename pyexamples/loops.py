@@ -12,4 +12,3 @@ pedidos = [
 for pedido in pedidos:
     s = 'Nome: {0}\nSabor: {1}'
     print(s.format(pedido['nome'], pedido['sabor']))
-

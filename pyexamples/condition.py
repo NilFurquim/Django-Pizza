@@ -1,7 +1,7 @@
 
 print('Hello World')
 
-sauce ='tomato'
+sauce = 'tomato'
 
 order_description = """
 Blah blah blah
